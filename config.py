@@ -94,7 +94,7 @@ USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘ
 
 OWNER_TAG = os.environ.get("OWNER_TAG", "Sourav00876")
 UPI_ID = os.environ.get("UPI_ID", "Not Available")
-QR_PIC = os.environ.get("QR_PIC", "https://t.me/Luxe_Premium1")
+QR_PIC = os.environ.get("QR_PIC", "https://telegra.ph/file/939e6b66661e27c8b4d02.jpg")
 SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/Luxe_Premium1")
 #--------------------------------------------
 #Time and its price
